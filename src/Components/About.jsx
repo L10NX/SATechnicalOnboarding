@@ -24,8 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm an IOC Analyst at NTT Ltd. 👨🏻‍💻";
-  "Azure Cloud Architect ☁️";
+  "IOC Analyst at NTT Ltd & Microsoft Learn Student Ambassador 👨🏻‍💻";
 
 /**
  * List of some of skills or technologies you work on, are learning,
