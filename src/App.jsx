@@ -27,8 +27,8 @@ const siteProps = {
   name: "Antonio Montes",
   title: "IOC Analyst at NTT Ltd & Microsoft Learn Student Ambassador",
   email: "Antonio.MontesGutierrez@studentambassadors.com",
-  gitHub: "https://github.com/L10NX",
-  linkedIn: "https://www.linkedin.com/in/antoniomontesgutierrez/",
+  gitHub: "L10NX",
+  linkedIn: "antoniomontesgutierrez",
 };
 
 const primaryColor = "#4E567E";
