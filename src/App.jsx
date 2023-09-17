@@ -31,8 +31,8 @@ const siteProps = {
   linkedIn: "antoniomontesgutierrez",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#FFFFFF";
+const secondaryColor = "#B5B2B2";
 
 const App = () => {
   return (
