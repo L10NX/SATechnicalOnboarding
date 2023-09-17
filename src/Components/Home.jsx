@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "/workspaces/SATechnicalOnboarding/src/images/google-cloud-datacenter-2-990x660-990x480.jpg";
+import image from "../workspaces/SATechnicalOnboarding/src/images/google-cloud-datacenter-2-990x660-990x480.jpg";
 
 const imageAltText = "Datacenter";
 
